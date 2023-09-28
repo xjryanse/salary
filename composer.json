@@ -1,0 +1,20 @@
+{
+    "name": "xjryanse/salary",
+    "description": "薪资库",
+    "type": "library",
+    "authors": [
+        {
+            "name": "xjryanse",
+            "email": "xjryanse@sina.com"
+        }
+    ],
+    "require": {
+
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+          "xjryanse\\salary\\": "src/"
+        }
+    }
+}
